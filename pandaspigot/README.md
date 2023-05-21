@@ -3,3 +3,5 @@ Here are a list of PandaSpigot jars that I've collected after some time. I don't
 <br>
 [pandaspigot-82.jar](https://github.com/MegaTKC/mc-server-jars/raw/main/pandaspigot/pandaspigot-82.jar): PandaSpigot (Build #82)<br>
 [pandaspigot-103.jar](https://github.com/MegaTKC/mc-server-jars/raw/main/pandaspigot/pandaspigot-103.jar): PandaSpigot (Build #103)<br>
+[pandaspigot-110.jar](https://github.com/MegaTKC/mc-server-jars/raw/main/pandaspigot/pandaspigot-110.jar): PandaSpigot (Build #110)<br>
+
